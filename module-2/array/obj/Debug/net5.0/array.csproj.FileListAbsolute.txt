@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.exe
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.deps.json
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.dll
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\ref\array.dll
+D:\TrainingWork\smitvora10\module-2\array\bin\Debug\net5.0\array.pdb
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.dll
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\ref\array.dll
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.pdb
+D:\TrainingWork\smitvora10\module-2\array\obj\Debug\net5.0\array.genruntimeconfig.cache
