@@ -5,6 +5,7 @@ D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\bin\Debug\ne
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\bin\Debug\net5.0\various_methods_of_String_class.dll
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\bin\Debug\net5.0\ref\various_methods_of_String_class.dll
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\bin\Debug\net5.0\various_methods_of_String_class.pdb
+D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\obj\Debug\net5.0\various_methods_of_String_class.csproj.AssemblyReference.cache
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\obj\Debug\net5.0\various_methods_of_String_class.GeneratedMSBuildEditorConfig.editorconfig
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\obj\Debug\net5.0\various_methods_of_String_class.AssemblyInfoInputs.cache
 D:\TrainingWork\smitvora10\module-2\various_methods_of_String_class\obj\Debug\net5.0\various_methods_of_String_class.AssemblyInfo.cs
