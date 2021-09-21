@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.exe
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.deps.json
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.dll
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\ref\foreach_loop.dll
+D:\TrainingWork\smitvora10\module-2\foreach_loop\bin\Debug\net5.0\foreach_loop.pdb
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.dll
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\ref\foreach_loop.dll
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.pdb
+D:\TrainingWork\smitvora10\module-2\foreach_loop\obj\Debug\net5.0\foreach_loop.genruntimeconfig.cache

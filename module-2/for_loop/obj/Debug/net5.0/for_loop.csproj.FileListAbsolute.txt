@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.exe
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.deps.json
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.dll
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\ref\for_loop.dll
+D:\TrainingWork\smitvora10\module-2\for_loop\bin\Debug\net5.0\for_loop.pdb
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.dll
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\ref\for_loop.dll
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.pdb
+D:\TrainingWork\smitvora10\module-2\for_loop\obj\Debug\net5.0\for_loop.genruntimeconfig.cache

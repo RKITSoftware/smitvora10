@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.exe
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.deps.json
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.dll
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\ref\while_loop.dll
+D:\TrainingWork\smitvora10\module-2\while_loop\bin\Debug\net5.0\while_loop.pdb
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.dll
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\ref\while_loop.dll
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.pdb
+D:\TrainingWork\smitvora10\module-2\while_loop\obj\Debug\net5.0\while_loop.genruntimeconfig.cache
