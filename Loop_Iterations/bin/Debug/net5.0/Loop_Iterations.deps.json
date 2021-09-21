@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Loop_Iterations/1.0.0": {
+        "runtime": {
+          "Loop_Iterations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Loop_Iterations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
