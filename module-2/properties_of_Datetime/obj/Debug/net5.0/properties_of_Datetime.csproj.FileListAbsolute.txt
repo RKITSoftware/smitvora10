@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.exe
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.deps.json
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.dll
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\ref\properties_of_Datetime.dll
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\bin\Debug\net5.0\properties_of_Datetime.pdb
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.dll
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\ref\properties_of_Datetime.dll
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.pdb
+D:\TrainingWork\smitvora10\module-2\properties_of_Datetime\obj\Debug\net5.0\properties_of_Datetime.genruntimeconfig.cache
