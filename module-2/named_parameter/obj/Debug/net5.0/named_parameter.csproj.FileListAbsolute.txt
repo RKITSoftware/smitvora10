@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.exe
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.deps.json
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.dll
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\ref\named_parameter.dll
+D:\TrainingWork\smitvora10\module-2\named_parameter\bin\Debug\net5.0\named_parameter.pdb
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.dll
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\ref\named_parameter.dll
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.pdb
+D:\TrainingWork\smitvora10\module-2\named_parameter\obj\Debug\net5.0\named_parameter.genruntimeconfig.cache

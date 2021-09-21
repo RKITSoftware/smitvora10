@@ -1,0 +1,15 @@
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.exe
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.deps.json
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.dll
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\ref\optional_or_default_type_parameter.dll
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\bin\Debug\net5.0\optional_or_default_type_parameter.pdb
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.dll
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\ref\optional_or_default_type_parameter.dll
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.pdb
+D:\TrainingWork\smitvora10\module-2\optional_or_default_type_parameter\obj\Debug\net5.0\optional_or_default_type_parameter.genruntimeconfig.cache
