@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "various_methods_of_String_class/1.0.0": {
+        "runtime": {
+          "various_methods_of_String_class.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "various_methods_of_String_class/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
