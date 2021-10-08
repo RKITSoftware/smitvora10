@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "collections_non-generic_ArrayList/1.0.0": {
+        "runtime": {
+          "collections_non-generic_ArrayList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "collections_non-generic_ArrayList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
