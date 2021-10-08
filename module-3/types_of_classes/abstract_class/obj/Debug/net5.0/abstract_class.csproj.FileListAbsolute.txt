@@ -1,0 +1,38 @@
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.exe
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.deps.json
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\ref\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\abstract_class.pdb
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\DotLiquid.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\bin\Debug\net5.0\it\DotLiquid.resources.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.csproj.CopyComplete
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\ref\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.pdb
+D:\TrainingWork\smitvora10\module-3\abstract_class\obj\Debug\net5.0\abstract_class.genruntimeconfig.cache
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.exe
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.deps.json
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\ref\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\abstract_class.pdb
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\DotLiquid.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\bin\Debug\net5.0\it\DotLiquid.resources.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.csproj.CopyComplete
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\ref\abstract_class.dll
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.pdb
+D:\TrainingWork\smitvora10\module-3\Types of classes\abstract_class\obj\Debug\net5.0\abstract_class.genruntimeconfig.cache

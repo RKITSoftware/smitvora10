@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.exe
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.deps.json
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.dll
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\ref\public_class.dll
+D:\TrainingWork\smitvora10\module-3\public_class\bin\Debug\net5.0\public_class.pdb
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.dll
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\ref\public_class.dll
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.pdb
+D:\TrainingWork\smitvora10\module-3\public_class\obj\Debug\net5.0\public_class.genruntimeconfig.cache
