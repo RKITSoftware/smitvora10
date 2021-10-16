@@ -17,7 +17,7 @@ namespace collections_generic_Queue
             //123456789
 
             Console.WriteLine("No. of Elements in queue:" + numbers.Count);
-            //No. of Elements in queue:10
+            //No. of Elements in queue:9
 
             Console.WriteLine("Does numbers contain 1:" + numbers.Contains(1));
             //Does numbers contain 1:True
@@ -32,7 +32,7 @@ namespace collections_generic_Queue
             //Does numbers contain 1:False
 
             Console.WriteLine("Element at the top is:" + numbers.Peek());
-            //Element at the top is:8
+            //Element at the top is:2
 
 
         }

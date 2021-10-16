@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrainingWork\\smitvora10\\module-3\\collections_generic_Queue\\collections_generic_Queue.csproj": {}
+    "D:\\TrainingWork\\smitvora10\\module-3\\generic_collections\\collections_generic_Queue\\collections_generic_Queue.csproj": {}
   },
   "projects": {
-    "D:\\TrainingWork\\smitvora10\\module-3\\collections_generic_Queue\\collections_generic_Queue.csproj": {
+    "D:\\TrainingWork\\smitvora10\\module-3\\generic_collections\\collections_generic_Queue\\collections_generic_Queue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrainingWork\\smitvora10\\module-3\\collections_generic_Queue\\collections_generic_Queue.csproj",
+        "projectUniqueName": "D:\\TrainingWork\\smitvora10\\module-3\\generic_collections\\collections_generic_Queue\\collections_generic_Queue.csproj",
         "projectName": "collections_generic_Queue",
-        "projectPath": "D:\\TrainingWork\\smitvora10\\module-3\\collections_generic_Queue\\collections_generic_Queue.csproj",
+        "projectPath": "D:\\TrainingWork\\smitvora10\\module-3\\generic_collections\\collections_generic_Queue\\collections_generic_Queue.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "D:\\TrainingWork\\smitvora10\\module-3\\collections_generic_Queue\\obj\\",
+        "outputPath": "D:\\TrainingWork\\smitvora10\\module-3\\generic_collections\\collections_generic_Queue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
