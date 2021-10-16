@@ -20,6 +20,7 @@ namespace parameterized_contructor
             Console.WriteLine("Business model is: " +business.model);
             Console.WriteLine("Sales are: " +business.sales);
         }
+	//output-
         //Constructor is called
         //Business model is: DTC
         //Sales are: 3846353.5

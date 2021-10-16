@@ -13,15 +13,15 @@ namespace internal_Modifier
 		string thought;
 
 		public void set(string name,string thought)
-        {
+        	{
 			this.name = name;
 			this.thought = thought;
-        }
+        	}
 		public void get()
-        {
-            Console.WriteLine("Name is : {0}", name);
-            Console.WriteLine("His Thought is : {0}",thought);
-        }
+        	{
+            		Console.WriteLine("Name is : {0}", name);
+            		Console.WriteLine("His Thought is : {0}",thought);
+        	}
 
 	}
 

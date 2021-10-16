@@ -10,12 +10,13 @@ namespace events_and_delegates
             var videoEncoder = new VideoEncoder();//publisher
             var mailServices = new MailServices();//subscriber
             var messageServices = new MessageServices();//subscriber
-            
 
             videoEncoder.VideoEncoded += mailServices.OnVideoEncoded;//subscription by MailServices class
             videoEncoder.VideoEncoded += messageServices.OnVideoEncoded;//subscription by MessageServices class
+
             //Calling method which contains all logic including virtual method call which contains event
             videoEncoder.Encode();
+
 
             //output-
             //Encoding video...

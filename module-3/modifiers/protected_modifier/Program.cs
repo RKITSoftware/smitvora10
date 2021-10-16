@@ -40,8 +40,8 @@ namespace protected_modifier
 
 			// Displaying the value of name
 			Console.WriteLine("Name is : {0}", obj2.getName());
-			//if we try to access name directly of obj1 of class Name then we get a compile time error as it is inaccessible but we can access it through obj2
-			//where class Name is parent.
+			//if we try to access name directly of obj1 of class Name then we get a compile time error as it is inaccessible but we 			//can access it through obj2
+			//where class "Name" is parent.
 
 			//output - Name is : Smit
 		}

@@ -30,10 +30,10 @@ namespace static_class
         static public void Main()
         {
 
-            // Calling static method of Author
+            // Calling static method of static class
             AccountDetails.details();
 
-            // Accessing the static data members of Author
+            // Accessing the static data members of static class as it cannot be inherited or instantiated
             Console.WriteLine("Account No. : {0} ", AccountDetails.Act_no);
             Console.WriteLine("Account Holder's First name : {0} ", AccountDetails.F_name);
             Console.WriteLine("Account Holder's Last name : {0} ", AccountDetails.L_name);

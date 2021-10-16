@@ -17,6 +17,7 @@ namespace default_constructor
             Business business = new Business();
             Console.WriteLine("Business model is:"+business.model);
         }
+	//output-
         //Constructor is called
         //Business model is:DTC
     }
