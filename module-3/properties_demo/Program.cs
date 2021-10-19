@@ -3,39 +3,19 @@
 namespace properties_demo
 {
     class BusinessModel
-    {
-        private string _businessName;
-        private string _modelName;
-        private double _amountRaised;
-        private double _equityDiluted;
-    
+    {    
+        public string BusinessName { get; set; }
+        public string ModelName { get; set; }
 
-        public string BusinessName {
-            get { return _businessName; }
-            set { _businessName = value; } 
-        }
-        public string ModelName
-        {
-            get { return _modelName; }
-            set { _modelName = value; }
-        }
-        public double EquityDiluted
-        {
-            get { return _equityDiluted; }
-            set { _equityDiluted = value; }
-        }
+        public double EquityDiluted{ get; set;  }
         public double EquityOwned
         {
             get { return 100 - EquityDiluted; }
 
         }
-        public double AmountRaised
-        {
-            get { return _amountRaised; }
-            set { _amountRaised = value; }
-        }
+        public double AmountRaised { get; set; }
 
-        
+
         public override string ToString()
         {
             return "BusinessName = " + BusinessName  + "\nModel = " + ModelName  + "\nAmount Raised(Rs.) = " + AmountRaised +
