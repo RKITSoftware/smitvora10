@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.exe
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.deps.json
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.dll
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\ref\enumerations.dll
+D:\TrainingWork\smitvora10\module-4\enumerations\bin\Debug\net5.0\enumerations.pdb
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.dll
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\ref\enumerations.dll
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.pdb
+D:\TrainingWork\smitvora10\module-4\enumerations\obj\Debug\net5.0\enumerations.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.exe
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.deps.json
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\ref\inheritance.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\bin\Debug\net5.0\inheritance.pdb
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\ref\inheritance.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.pdb
+D:\TrainingWork\smitvora10\module-4\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "basic_file_operations_AppendDeleteCopy", "basic_file_operations_AppendDeleteCopy.csproj", "{8BAFB0B7-DB0C-467A-882F-9F86A284ED3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BAFB0B7-DB0C-467A-882F-9F86A284ED3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BAFB0B7-DB0C-467A-882F-9F86A284ED3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BAFB0B7-DB0C-467A-882F-9F86A284ED3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BAFB0B7-DB0C-467A-882F-9F86A284ED3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F3FB801-5E3C-465A-83C2-97BBCAE5EB7F}
+	EndGlobalSection
+EndGlobal

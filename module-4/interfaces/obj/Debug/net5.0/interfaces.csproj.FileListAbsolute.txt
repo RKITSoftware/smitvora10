@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.exe
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.deps.json
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.dll
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\ref\interfaces.dll
+D:\TrainingWork\smitvora10\module-4\interfaces\bin\Debug\net5.0\interfaces.pdb
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.dll
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\ref\interfaces.dll
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.pdb
+D:\TrainingWork\smitvora10\module-4\interfaces\obj\Debug\net5.0\interfaces.genruntimeconfig.cache

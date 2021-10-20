@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.exe
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.deps.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\ref\basic_file_operations_StreamWriter.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\bin\Debug\net5.0\basic_file_operations_StreamWriter.pdb
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\ref\basic_file_operations_StreamWriter.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.pdb
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamWriter\obj\Debug\net5.0\basic_file_operations_StreamWriter.genruntimeconfig.cache

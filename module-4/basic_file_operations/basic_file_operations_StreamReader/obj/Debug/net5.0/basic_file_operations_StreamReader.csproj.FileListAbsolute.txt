@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.exe
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.deps.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\ref\basic_file_operations_StreamReader.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\bin\Debug\net5.0\basic_file_operations_StreamReader.pdb
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\ref\basic_file_operations_StreamReader.dll
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.pdb
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.genruntimeconfig.cache
+D:\TrainingWork\smitvora10\module-4\basic_file_operations\basic_file_operations_StreamReader\obj\Debug\net5.0\basic_file_operations_StreamReader.csproj.AssemblyReference.cache
