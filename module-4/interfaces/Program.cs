@@ -9,8 +9,12 @@ namespace interfaces
         void Sector();
         void Valuation();
     }
-
-    class Ola : IStartUp
+    interface ICompetition
+    {
+        void CompetitionName();
+        void Origin();
+    }
+    class Ola : IStartUp,ICompetition
     {
         public void Projections()
         {
@@ -35,6 +39,16 @@ namespace interfaces
         public void Valuation()
         {
             Console.WriteLine("Valuation : $6.7B");
+        }
+
+        public void CompetitionName()
+        {
+            Console.WriteLine("CompetitionName : Uber");
+        }
+
+        public void Origin()
+        {
+            Console.WriteLine("Originated in : USA");
         }
     }
     class Ebay : IStartUp
@@ -71,13 +85,18 @@ namespace interfaces
             objOla.Funding();
             objOla.Sector();
             objOla.Status();
-            //output-
-            //Ola stats:
-            //Projections for next year are: $4.9B
-            //Valuation : $6.7B
-            //Received Funding : $3.8B
-            //Sector : Ride hailing
-            //Status : Functional
+            objOla.CompetitionName();
+            objOla.Origin();
+
+        //output-
+        //Ola stats:
+        //Projections for next year are: $4.9B
+        //Valuation : $6.7B
+        //Received Funding : $3.8B
+        //Sector : Ride hailing
+        //Status : Functional
+        //CompetitionName: Uber
+        //Originated in : USA
 
             Console.WriteLine("Ebay stats: ");
             Ebay objEbay = new Ebay();

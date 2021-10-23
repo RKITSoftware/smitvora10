@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling.csproj": {}
+    "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\exception_handling.csproj": {}
   },
   "projects": {
-    "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling.csproj": {
+    "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\exception_handling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling.csproj",
+        "projectUniqueName": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\exception_handling.csproj",
         "projectName": "exception_handling",
-        "projectPath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling.csproj",
+        "projectPath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\exception_handling.csproj",
         "packagesPath": "C:\\Users\\smith\\.nuget\\packages\\",
-        "outputPath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\obj\\",
+        "outputPath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

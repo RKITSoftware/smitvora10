@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CDIDPRSyo2bKJnmcbOn4Nhl2Cwzd7YrgCoThowvIU1kR17qpXDiujnp88q6UMFOmyCLnR8qvBNzBLTH0lYi35w==",
+  "dgSpecHash": "1xeR/IzraUY5Uf+l1QCRHHwZuUY7usRuxNNsGf8z0/I/ZU78RhK5Jt8W+Mln3JSltaG715hy1l7BmCoQROFdzg==",
   "success": true,
-  "projectFilePath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling.csproj",
+  "projectFilePath": "D:\\TrainingWork\\smitvora10\\module-4\\exception_handling\\exception_handling_DivideByZero\\exception_handling.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
