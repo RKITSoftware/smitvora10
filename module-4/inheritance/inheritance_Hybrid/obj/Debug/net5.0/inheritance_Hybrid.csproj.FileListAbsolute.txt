@@ -1,0 +1,16 @@
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.exe
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.deps.json
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.runtimeconfig.json
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.runtimeconfig.dev.json
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\ref\inheritance_Hybrid.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\bin\Debug\net5.0\inheritance_Hybrid.pdb
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.csproj.AssemblyReference.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.AssemblyInfoInputs.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.AssemblyInfo.cs
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.csproj.CoreCompileInputs.cache
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\ref\inheritance_Hybrid.dll
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.pdb
+D:\TrainingWork\smitvora10\module-4\inheritance\inheritance_Hybrid\obj\Debug\net5.0\inheritance_Hybrid.genruntimeconfig.cache

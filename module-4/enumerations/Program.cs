@@ -2,7 +2,7 @@
 
 namespace enumerations
 {
-    public enum StartUp
+    public enum enmStartUp
     {
         SelfCapital,
         SeedRound,

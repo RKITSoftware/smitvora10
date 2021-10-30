@@ -2,6 +2,7 @@
 
 namespace interfaces
 {
+    //interface having abstract methods to show basic info of startup
     interface IStartUp
     {
         void Status();
@@ -14,6 +15,8 @@ namespace interfaces
         void CompetitionName();
         void Origin();
     }
+	
+    //class showing multiple interface inheritance
     class Ola : IStartUp,ICompetition
     {
         public void Projections()
@@ -51,6 +54,7 @@ namespace interfaces
             Console.WriteLine("Originated in : USA");
         }
     }
+    //class showing single interface inheritance
     class Ebay : IStartUp
     {
         public void Funding()
@@ -104,6 +108,7 @@ namespace interfaces
             objEbay.Funding();
             objEbay.Sector();
             objEbay.Status();
+
             //output - 
             //Ebay stats:
             //Valuation: $0.0
