@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "bWGWwl2TrXXND7xnyxIS4q988w+qHhhBPND4Gxyc7GE4I4pYmBXFbaoQIt+SWcO3+9csN8AItynsHF1jqQfMyQ==",
+  "success": true,
+  "projectFilePath": "D:\\TrainingWork\\smitvora10\\module-5\\MyFirstMVCApplication\\MyFirstMVCApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\smith\\.nuget\\packages\\elasticsearch.net\\7.15.1\\elasticsearch.net.7.15.1.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\nest\\7.15.1\\nest.7.15.1.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\smith\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

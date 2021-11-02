@@ -1,0 +1,26 @@
+﻿@*//Getting model object into this view to get values from model and also assign values into it*@
+@model IEnumerable<MyFirstMVCApplication.Models.Cricketer>
+
+<div class="text-center">
+    <h1 class="display-4">Cricketer Info</h1>
+    @*Looping through every record in the list*@
+    @foreach (var objCricketer in Model)
+    {<div class="row">
+            Cricketer Name : @objCricketer.CricketerName
+        </div>
+
+        <div class="row">
+            Team Name : @objCricketer.Team
+
+        </div>
+
+    }
+
+
+<div class=" offset-4 col-md-3 text-center">
+    <a asp-controller="Home" asp-action="AddCricketer" class="btn btn-primary">
+         Add Cricketer
+    </a>
+</div>
+
+</div>
