@@ -79,7 +79,7 @@ namespace MyFirstWebApiProject.Controllers
         //Post method to add cricketer object in the database using HttpPost
         [Route("AddCricketer")]
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        
         public IEnumerable<Cricketer> Post(Cricketer objCricketer)
         {
             _db.Add(objCricketer);
