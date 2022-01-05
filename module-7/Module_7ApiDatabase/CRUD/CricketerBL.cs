@@ -10,10 +10,17 @@ using System.Web;
 
 namespace Module_7ApiDatabase
 {
+    /// <summary>
+    ///    Business Logic for all the CRUD operations on Cricketer table from database 
+    /// </summary>
     //BL file for Cricketer table
     public class CricketerBL : DatabaseConfig
     {
-        //Get All Operation
+        /// <summary>
+        ///    Get All Operation 
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>List of Cricketers</returns>
         public List<Cricketer> Get(Cricketer cricketer)
         {
             string _get_query = "SELECT * FROM Cricketer";
@@ -24,40 +31,34 @@ namespace Module_7ApiDatabase
                 using (MySqlCommand objCmd = new MySqlCommand(_get_query, objConn))
                 {
 
-                        objCmd.CommandType = System.Data.CommandType.Text;
-                        objCmd.CommandText = _get_query;
+                    objCmd.CommandType = System.Data.CommandType.Text;
+                    objCmd.CommandText = _get_query;
 
-                        List<Cricketer> objCricketer = new List<Cricketer>();
-                        using (MySqlDataReader objSDR = objCmd.ExecuteReader())
+                    List<Cricketer> objCricketer = new List<Cricketer>();
+                    using (MySqlDataReader objSDR = objCmd.ExecuteReader())
+                    {
+                        while (objSDR.Read())
                         {
-                            while (objSDR.Read())
+                            objCricketer.Add(new Cricketer()
                             {
-                               objCricketer.Add(new Cricketer()
-                                    {
-                                        CricketerId = Convert.ToInt32(objSDR["CricketerId"]),
-                                        CricketerName = Convert.ToString(objSDR["CricketerName"])
-                                    ,
-                                        Team = Convert.ToString(objSDR["Team"]),
-                                        Runs = Convert.ToInt32(objSDR["Runs"])
-                                    });
-                            }
-
+                                CricketerId = Convert.ToInt32(objSDR["CricketerId"]),
+                                CricketerName = Convert.ToString(objSDR["CricketerName"]),
+                                Team = Convert.ToString(objSDR["Team"]),
+                                Runs = Convert.ToInt32(objSDR["Runs"])
+                            });
                         }
 
-                        return objCricketer;
-
-                    
-                     
-                    
-
-                    
+                    }
+                    return objCricketer;
                 }
-                
             }
-            
         }
 
-        //Get by Id
+        /// <summary>
+        ///     Get by Id
+        /// </summary>
+        /// <param name="CricketerId"></param>
+        /// <returns>One record of Cricketer according to the Id</returns>
         public Cricketer GetById(int CricketerId)
         {
             string _get_query = "SELECT * FROM Cricketer WHERE CricketerId=@CricketerId";
@@ -78,31 +79,23 @@ namespace Module_7ApiDatabase
                     {
                         while (objSDR.Read())
                         {
-
-
                             objCricketer.CricketerId = Convert.ToInt32(objSDR["CricketerId"]);
                             objCricketer.CricketerName = Convert.ToString(objSDR["CricketerName"]);
                             objCricketer.Team = Convert.ToString(objSDR["Team"]);
                             objCricketer.Runs = Convert.ToInt32(objSDR["Runs"]);
-                            
+
                         }
-
                     }
-
                     return objCricketer;
-
-
-
-
-
-
                 }
-
             }
-
         }
 
-        //Insert Operation
+        /// <summary>
+        ///     Insert Operation
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>String to notify Success of operation </returns>       
         public String Insert(Cricketer cricketer)
         {
             string _insert_query = "INSERT INTO Cricketer (CricketerName,Team,Runs) VALUES (@CricketerName,@Team,@Runs)";
@@ -129,8 +122,6 @@ namespace Module_7ApiDatabase
 
                         return "Insertion Unsuccessful";
 
-
-
                     }
                     catch (Exception ex)
                     {
@@ -142,17 +133,17 @@ namespace Module_7ApiDatabase
                         objConn.Close();
                     }
                 }
-
-
-
             }
         }
 
-        //Update operation
+        /// <summary>
+        ///     Update operation
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>String to notify Success of operation </returns>  
         public String Update(int CricketerId, Cricketer cricketer)
         {
             string _update_query = "UPDATE Cricketer SET CricketerName=@CricketerName,Team=@Team,Runs=@Runs WHERE CricketerId=@CricketerId";
-
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {
@@ -187,17 +178,17 @@ namespace Module_7ApiDatabase
                         objConn.Close();
                     }
                 }
-
-
-
             }
         }
 
-        //Delete operation
+        /// <summary>
+        ///     Delete operation
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>String to notify Success of operation </returns> 
         public String Delete(int CricketerId)
         {
             string _update_query = "DELETE FROM Cricketer WHERE CricketerId=@CricketerId";
-
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {
@@ -229,12 +220,7 @@ namespace Module_7ApiDatabase
                         objConn.Close();
                     }
                 }
-
-
-
             }
         }
-
-
     }
 }

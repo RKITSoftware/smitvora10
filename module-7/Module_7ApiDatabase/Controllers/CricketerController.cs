@@ -8,7 +8,7 @@ using System.Web.Http;
 
 namespace Module_7ApiDatabase.Controllers
 {
-    public class ValuesController : ApiController
+    public class CricketerController : ApiController
     {
         CricketerBL cricketerBL = new CricketerBL();
         // GET api/values
