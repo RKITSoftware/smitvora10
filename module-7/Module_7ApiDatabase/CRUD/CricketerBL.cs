@@ -24,7 +24,7 @@ namespace Module_7ApiDatabase
         public List<Cricketer> Get(Cricketer cricketer)
         {
             //SQL Get All query string
-            string _get_query = "SELECT * FROM Cricketer";
+            string _get_query = "SELECT CricketerId,CricketerName,Team,Runs FROM Cricketer";
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {
@@ -63,7 +63,7 @@ namespace Module_7ApiDatabase
         public Cricketer GetById(int CricketerId)
         {
             //SQL Get By ID query string
-            string _get_query = "SELECT * FROM Cricketer WHERE CricketerId=@CricketerId";
+            string _get_query = "SELECT CricketerId,CricketerName,Team,Runs FROM Cricketer WHERE CricketerId=@CricketerId";
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {
@@ -193,7 +193,7 @@ namespace Module_7ApiDatabase
         public String Delete(int CricketerId)
         {
             //SQL Delete query String
-            string _delete_query = "DELETE FROM Cricketer WHERE CricketerId=@CricketerId";
+            string _delete_query = "DELETE CricketerId,CricketerName,Team,Runs FROM Cricketer WHERE CricketerId=@CricketerId";
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {

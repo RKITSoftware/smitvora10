@@ -48,9 +48,14 @@ namespace Module_7ApiDatabase.Controllers
             string result = cricketerBL.Insert(cricketer);
             return Ok(result);
         }
-        
+
+
+        /// <summary>
+        /// Update method to modify cricketer record by Id
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>HTTP Action OK by getting result string of success</returns>
         [HttpPut]
-        // PUT api/values/5
         [Route("{CricketerId}")]
         public IHttpActionResult Put(int CricketerId,[FromBody] Cricketer cricketer)
         {
@@ -58,8 +63,13 @@ namespace Module_7ApiDatabase.Controllers
             return Ok(result);
         }
 
-        [HttpDelete]
-        // DELETE api/values/5
+
+        /// <summary>
+        /// Delete method to delete cricketer record by Id
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>HTTP Action OK by getting result string of success</returns>
+        [HttpDelete]        
         [Route("{CricketerId}")]
         public IHttpActionResult Delete(int CricketerId)
         {
