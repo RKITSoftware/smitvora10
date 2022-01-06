@@ -193,7 +193,7 @@ namespace Module_7ApiDatabase
         public String Delete(int CricketerId)
         {
             //SQL Delete query String
-            string _delete_query = "DELETE CricketerId,CricketerName,Team,Runs FROM Cricketer WHERE CricketerId=@CricketerId";
+            string _delete_query = "DELETE FROM Cricketer WHERE CricketerId=@CricketerId";
 
             using (MySqlConnection objConn = new MySqlConnection(ConnectionString))
             {
