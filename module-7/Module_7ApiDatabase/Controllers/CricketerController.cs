@@ -11,7 +11,11 @@ namespace Module_7ApiDatabase.Controllers
     public class CricketerController : ApiController
     {
         CricketerBL cricketerBL = new CricketerBL();
-        // GET api/values
+        /// <summary>
+        /// Get method to get list of all cricketers
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>List of Cricketers</returns>
         [HttpGet]
         public List<Cricketer> Get(Cricketer cricketer)
         {
@@ -20,7 +24,11 @@ namespace Module_7ApiDatabase.Controllers
             return cricketers;
         }
 
-        // GET api/values/5
+        /// <summary>
+        /// Get By Id method to get one cricketer record
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>A Cricketer record</returns>
         [HttpGet]
         [Route("{CricketerId}")]
         public Cricketer Get(int CricketerId)
@@ -30,7 +38,11 @@ namespace Module_7ApiDatabase.Controllers
         }
         [HttpPost]
 
-        // POST api/values
+        /// <summary>
+        /// POST method to get list of all cricketers
+        /// </summary>
+        /// <param name="cricketer"></param>
+        /// <returns>HTTP Action OK by getting result string of success</returns>
         public IHttpActionResult Post([FromBody] Cricketer cricketer)
         {
             string result = cricketerBL.Insert(cricketer);
